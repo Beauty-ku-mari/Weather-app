@@ -13,3 +13,12 @@ HTML
 CSS
 JavaScript
 OpenWeatherMap API
+
+Installation
+ 1. Clone the Repository
+
+git clone https://github.com/yourusername/weather-app.git
+cd weather-app
+
+2. Open the Project
+Open the index.html file in your favorite web browser.
