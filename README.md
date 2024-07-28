@@ -5,19 +5,19 @@ Welcome to the Weather App! This is a simple yet powerful application developed 
 
 Features
 
-  Search for current weather by city name
+     Search for current weather by city name
 
-  Display temperature, humidity, wind speed, and weather conditions
+     Display temperature, humidity, wind speed, and weather conditions
 
-  Responsive design for both desktop and mobile devices
+     Responsive design for both desktop and mobile devices
 
 
 Technologies Used
 
-  HTML
-  CSS
-  JavaScript
-  OpenWeatherMap API
+    HTML
+    CSS
+    JavaScript
+    OpenWeatherMap API
 
 Installation
    1. Clone the Repository
@@ -41,11 +41,10 @@ Installation
      const apiKey = 'YOUR_API_KEY';
 
 
-  2.Search for Weather
+  2. Search for Weather
 
      Enter the name of the city in the search input field.
-     
-     Click the "Search" button or press "Enter".
-     
-     The weather information will be displayed on the screen.
     
+     Click the "Search" button or press "Enter".
+    
+     The weather information will be displayed on the screen.
